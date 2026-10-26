@@ -534,6 +534,10 @@ The project is intentionally being developed in small steps so each component ca
 - [ ] Exfiltration tests
 - [ ] Structured attack dataset
 
+### Database
+
+- [x] Connect logs to Supabase
+
 ### Public Deployment
 
 - [ ] React/Vite interface
