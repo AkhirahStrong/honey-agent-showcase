@@ -528,8 +528,8 @@ The project is intentionally being developed in small steps so each component ca
 
 ### Security Research
 
-- [ ] Direct injection tests
-- [ ] Indirect injection tests
+- [x] Direct injection tests
+- [x] Indirect injection tests
 - [ ] Tool-abuse tests
 - [ ] Exfiltration tests
 - [ ] Structured attack dataset
