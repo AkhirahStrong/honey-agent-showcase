@@ -530,9 +530,9 @@ The project is intentionally being developed in small steps so each component ca
 
 - [x] Direct injection tests
 - [x] Indirect injection tests
-- [ ] Tool-abuse tests
-- [ ] Exfiltration tests
-- [ ] Structured attack dataset
+- [x] Tool-abuse tests
+- [x] Exfiltration tests
+- [x] Structured attack dataset
 
 ### Database
 
@@ -540,7 +540,7 @@ The project is intentionally being developed in small steps so each component ca
 
 ### Public Deployment
 
-- [ ] React/Vite interface
+- [x] React/Vite interface
 - [ ] Rate limiting
 - [ ] Global request limits
 - [ ] Budget controls
