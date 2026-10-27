@@ -541,7 +541,7 @@ The project is intentionally being developed in small steps so each component ca
 ### Public Deployment
 
 - [x] React/Vite interface
-- [ ] Rate limiting
+- [x] Rate limiting
 - [ ] Global request limits
 - [ ] Budget controls
 - [x] Kill switch
