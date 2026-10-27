@@ -544,7 +544,7 @@ The project is intentionally being developed in small steps so each component ca
 - [ ] Rate limiting
 - [ ] Global request limits
 - [ ] Budget controls
-- [ ] Kill switch
+- [x] Kill switch
 - [ ] Public Honey Agent deployment
 
 ---
