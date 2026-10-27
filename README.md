@@ -543,7 +543,7 @@ The project is intentionally being developed in small steps so each component ca
 - [x] React/Vite interface
 - [x] Rate limiting
 - [x] Database global limit counter
-- [ ] Global request limits
+- [x] Global request limits
 - [ ] Budget controls
 - [x] Kill switch
 - [ ] Public Honey Agent deployment
