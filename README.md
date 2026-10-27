@@ -536,7 +536,7 @@ The project is intentionally being developed in small steps so each component ca
 
 ### Database
 
-- [x] Connect logs to Supabase
+- [x] Connect logs to database
 
 ### Public Deployment
 
